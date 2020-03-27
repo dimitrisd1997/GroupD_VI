@@ -1,0 +1,6 @@
+﻿  opencvexample.cpp
+  freenect-playback-wrapper.cpp
+c:\users\aldo troiano\google drive\3rd year\visual intelligence\vi_groupkinect\vi_groupkinect\freenect-playback-wrapper.cpp(82): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(2260): note: see declaration of 'sscanf'
+  Generating Code...
+opencv_world420d.lib(opencv_world420d.dll) : fatal error LNK1112: module machine type 'x64' conflicts with target machine type 'x86'
